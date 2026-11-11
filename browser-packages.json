@@ -15,7 +15,6 @@
   "node_modules/clsx",
   "node_modules/copy-text-to-clipboard",
   "node_modules/cose-base",
-  "node_modules/css-loader",
   "node_modules/cytoscape",
   "node_modules/cytoscape-cose-bilkent",
   "node_modules/cytoscape-fcose",

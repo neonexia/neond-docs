@@ -130,14 +130,6 @@
       ]
     },
     {
-      "name": "css-loader",
-      "version": "6.11.0",
-      "license": "MIT",
-      "files": [
-        "49084d3435ba3ae1eb8d/LICENSE"
-      ]
-    },
-    {
       "name": "cytoscape",
       "version": "3.34.4",
       "license": "MIT",
